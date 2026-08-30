@@ -1,0 +1,41 @@
+Audio sources
+=============
+
+All recordings in this directory were downloaded from xeno-canto.org and are
+redistributed under the Creative Commons licence listed for each file.
+Attribution is a condition of that licence - do not remove this file.
+
+Licence text: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+XC1166259 - Common Kingfisher - Alcedo atthis.wav
+  Species (common)     : Common Kingfisher
+  Species (scientific) : Alcedo atthis
+  GBIF taxon key       : 2475532
+  Source page          : https://xeno-canto.org/1166259
+  Recordist            : Abdessamad Ennoury
+  Licence              : CC BY-NC-SA 4.0
+
+XC721834 - Great Bustard - Otis tarda tarda.mp3
+  Species (common)     : Great Bustard
+  Species (scientific) : Otis tarda (recording is of subspecies O. t. tarda)
+  GBIF taxon key       : 2474921
+  Source page          : https://xeno-canto.org/721834
+  Recordist            : Lars Lachmann
+  Licence              : CC BY-NC-SA 4.0
+
+XC820661 - Common Quail - Coturnix coturnix conturbans.wav
+  Species (common)     : Common Quail
+  Species (scientific) : Coturnix coturnix (recording is of subspecies C. c. conturbans)
+  GBIF taxon key       : 2474156
+  Source page          : https://xeno-canto.org/820661
+  Recordist            : Carlos Pereira
+  Licence              : CC BY-NC-SA 4.0
+
+XC911456 - European Bee-eater - Merops apiaster.wav
+  Species (common)     : European Bee-eater
+  Species (scientific) : Merops apiaster
+  GBIF taxon key       : 2475443
+  Source page          : https://xeno-canto.org/911456
+  Recordist            : Stephan Risch
+  Licence              : CC BY-NC-SA 4.0
