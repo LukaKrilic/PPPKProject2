@@ -1,0 +1,9 @@
+mongo_uri: "mongodb://localhost:27017"
+mongo_db: "birds"
+minio_endpoint: "localhost:9000"
+minio_access_key: "adminminio"
+minio_secret_key: "adminminio"
+minio_bucket_audio: "audio"
+aves_base_url: "https://aves.regoch.net"
+audio_dir: "data/audio"
+audio_location: { lat: 45.7125, lon: 16.0756 }

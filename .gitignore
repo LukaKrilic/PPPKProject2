@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+output/
+.snakemake/
+data/audio/*
+!data/audio/.gitkeep
+!data/audio/SOURCES.txt
