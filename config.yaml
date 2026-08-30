@@ -7,3 +7,4 @@ minio_bucket_audio: "audio"
 aves_base_url: "https://aves.regoch.net"
 audio_dir: "data/audio"
 audio_location: { lat: 45.7125, lon: 16.0756 }
+taxonomy_url: "https://aves.regoch.net/aves.json"
